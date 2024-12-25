@@ -18,3 +18,6 @@ https://setup.rbxcdn.com/channel/anychannelhere/RobloxStudioInstaller.exe
 
 https://setup.rbxcdn.com/RobloxStudioLauncherBeta.exe  
 https://setup.rbxcdn.com/channel/anychannelhere/RobloxStudioLauncherBeta.exe  
+
+https://setup.rbxcdn.com/RobloxStudioLauncher.exe
+https://setup.rbxcdn.com/channel/anychannelhere/RobloxStudioLauncher.exe
